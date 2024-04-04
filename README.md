@@ -1,13 +1,20 @@
+<style>
+.a {
+    color: red;
+    font-weight:700;
+    font-size: 35px;
+}
 
+</style>
 <h2>Hey 👋, I'm <a href="">Kam</a></h2>
 <p>I'm currently a software engineer student at <strong><a href="https://www.yalova.edu.tr/en">University of Yalova</a></strong> and a front end developer intern at <strong><a href="https://yafa.dev/?lang=en">YAFA Cloud Services LLC</a></strong>. I am working on some side projects, learning React.js and Node.js, and trying to conquer the world of full stack web development.</p>
 <p> <a href="https://www.linkedin.com/in/erkamyaman35/"><img src="https://img.shields.io/badge/-@kam-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/erkamyaman35/" alt="LinkedIn Badge"></a> </p>
 <p>🙃 Don't forget to get some Sarcasm in your life 🙃</p>
  
 <h2>⚡️ A Few Quick Facts</h2>
-<div  style="background-color:green">
+<div class="a">
  
-<div class="a">  
+<div >  
     
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">My Portfolio Web Page</a>.</li>
