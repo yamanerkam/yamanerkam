@@ -12,10 +12,10 @@
 <li>💬 Ping me about <strong>React, CSS, Rest Api, and Web Dev stuff</strong>.</li>
 <li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
 <li>🎉 Fun Fact: I am a son of Vincent van Gogh。</li>
-</ul></div>
+</ul></div><img  align="right" width="200" height="200"   src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
 </div>
 
-<img  align="right" width="200" height="200"   src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 
 <h2>✒️ Recent Posts</h2>
