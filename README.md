@@ -23,7 +23,7 @@
 
 </div>
 <div class="b">
-     <img align="right" width="200" height="200"   src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+     <img align="center" width="200" height="200"   src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 </div>
 
 </div>
