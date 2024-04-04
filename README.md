@@ -5,14 +5,22 @@
 
 <h2>⚡️ A Few Quick Facts</h2>
 <div>
-    <div><ul>
+    <div>
+        
+        <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">My Portfolio Web Page</a>.</li>
 <li>🧐 Learning about <strong>Rest Api</strong>, <strong>TypeScript</strong>, and a bit of <strong>CSS</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/yamanerkam">Github</a>.</li>
 <li>💬 Ping me about <strong>React, CSS, Rest Api, and Web Dev stuff</strong>.</li>
 <li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
 <li>🎉 Fun Fact: I am a son of Vincent van Gogh。</li>
-</ul></div><img  align="right" width="200" height="200"   src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+</ul>
+
+</div>
+    <div>
+            <img  align="right" width="200" height="200"   src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+
+    </div>
 
 </div>
 
