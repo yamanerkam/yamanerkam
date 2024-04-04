@@ -1,15 +1,4 @@
 
-<style>
-  
-
-  .box {
-    border: 1px solid red;
-    padding: 30px;
-    height: 45px;
-    width: 45px;
-    text-align: center;
-  }
-</style>
 <h2>Hey 👋, I'm <a href="">Kam</a></h2>
 <p>I'm currently a software engineer student at <strong><a href="https://www.yalova.edu.tr/en">University of Yalova</a></strong> and a front end developer intern at <strong><a href="https://yafa.dev/?lang=en">YAFA Cloud Services LLC</a></strong>. I am working on some side projects, learning React.js and Node.js, and trying to conquer the world of full stack web development.</p>
 <p> <a href="https://www.linkedin.com/in/erkamyaman35/"><img src="https://img.shields.io/badge/-@kam-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/erkamyaman35/" alt="LinkedIn Badge"></a> </p>
@@ -18,7 +7,7 @@
 <h2>⚡️ A Few Quick Facts</h2>
 
 
-<div class="box">
+<div>
  
 <div >  
     
@@ -34,19 +23,14 @@
 
 </div>
 <div class="b">
-     <img  width="200" height="200"   src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+     <img align="right" width="200" height="200"   src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 </div>
 
 </div>
 
 
 
-<h2>✒️ Recent Posts</h2>
-<details>
-    <summary>Explore</summary>
-    <li><a target="_blank" href="https://blog.stanleylim.me/maximizing-efficiency-and-impact---why-i-choose-mermaid-for-graph-creation">Maximizing Efficiency and Impact - Why I Choose Mermaid for Graph Creation — June 19, 2023</a></li><li><a target="_blank" href="https://blog.stanleylim.me/til-how-casing-can-break-netlify-functions">TIL How Casing Can Break Netlify Functions — February 27, 2023</a></li><li><a target="_blank" href="https://blog.stanleylim.me/godaddy-redirect-hack">GoDaddy Redirect Hack — December 20, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/airpods-not-charging-on-windows">Airpods Not Charging on Windows — August 19, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/the-fastest-way-to-develop-and-deploy-your-next-project">⚡ The Fastest Way to Develop and Deploy Your Next Project — June 09, 2022</a></li>
-</details>
-<p><a target="_blank" href="https://blog.stanleylim.me">Read More</a></p>
+
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
