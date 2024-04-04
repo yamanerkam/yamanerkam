@@ -4,13 +4,13 @@
 <p>I'm currently a software engineer student at <strong><a href="https://www.yalova.edu.tr/en">University of Yalova</a></strong> and a front end developer intern at <strong><a href="https://yafa.dev/?lang=en">YAFA Cloud Services LLC</a></strong>. I am working on some side projects, learning React.js and Node.js, and trying to conquer the world of full stack web development.</p>
 <p> <a href="https://www.linkedin.com/in/erkamyaman35/"><img src="https://img.shields.io/badge/-@kam-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/erkamyaman35/" alt="LinkedIn Badge"></a> </p>
 <p>🙃 Don't forget to get some Sarcasm in your life 🙃</p>
-
-<h2>⚡️ A Few Quick Facts</h2>
-<div class="flex-container">
-  flex-container {
+ flex-container {
   display: flex;
   /* Additional flexbox properties */
 }  
+<h2>⚡️ A Few Quick Facts</h2>
+<div class="flex-container">
+ 
 <div class="a">  
     
 <ul>
