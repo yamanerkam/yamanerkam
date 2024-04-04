@@ -1,12 +1,4 @@
-flex-container {
+.a {
   display: flex;
   /* Additional flexbox properties */
 }
-
-.a {
-    display: none;
-
-}
-
-.b {
-  /* Styles for element b */
