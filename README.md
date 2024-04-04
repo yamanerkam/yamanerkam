@@ -15,7 +15,7 @@
 </ul></div>
 </div>
 
-<img width="500" height="600"   src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img aligh="right" width="200" height="300"   src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 
 <h2>✒️ Recent Posts</h2>
