@@ -32,4 +32,4 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=yamanerkam&show_icons=true&count_private=true" alt="yamanerkam" />
-<p><a href="http://hits.dwyl.com/spiderpig86/spiderpig86/spiderpig86.svg?style=flat-square"><img src="https://hits.dwyl.com/spiderpig86/spiderpig86/spiderpig86.svg?style=flat-square" alt="HitCount"></a></p>
+<p><a href="http://hits.dwyl.com/yamanerkam/yamanerkam/yamanerkam.svg?style=flat-square"><img src="https://hits.dwyl.com/yamanerkam/yamanerkam/yamanerkam.svg?style=flat-square" alt="HitCount"></a></p>
