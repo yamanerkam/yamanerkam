@@ -4,7 +4,7 @@
 <p>🙃 Don't forget to get some Sarcasm in your life 🙃</p>
 
 <h2>⚡️ A Few Quick Facts</h2>
-<div>
+<div class="flex-container">
     
 <div class="a">  
     
