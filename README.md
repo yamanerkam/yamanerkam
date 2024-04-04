@@ -2,17 +2,16 @@
 <p>I'm currently a software engineer student at <strong><a href="https://www.yalova.edu.tr/en">University of Yalova</a></strong> and a front end developer intern at <strong><a href="https://yafa.dev/?lang=en">YAFA Cloud Services LLC</a></strong>. I am working on some side projects, learning React.js and Node.js, and trying to conquer the world of full stack web development.</p>
 <p> <a href="https://www.linkedin.com/in/erkamyaman35/"><img src="https://img.shields.io/badge/-@kam-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/erkamyaman35/" alt="LinkedIn Badge"></a> </p>
 <p>🙃 Don't forget to get some Sarcasm in your life 🙃</p>
-<hr>
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
+<img  src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">My Portfolio Web Page</a>.</li>
 <li>🧐 Learning about <strong>Rest Api</strong>, <strong>TypeScript</strong>, and a bit of <strong>CSS</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/yamanerkam">Github</a>.</li>
-<li>💬 Ping me about <strong>react, css, Rest Api, and web dev stuff</strong>.</li>
+<li>💬 Ping me about <strong>React, CSS, Rest Api, and Web Dev stuff</strong>.</li>
 <li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
-<li>🎉 Fun Fact: 我也会讲中文。</li>
+<li>🎉 Fun Fact: I am a son of Vincent van Gogh。</li>
 </ul>
 <h2>✒️ Recent Posts</h2>
 <details>
