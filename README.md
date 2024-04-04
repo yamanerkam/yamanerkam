@@ -7,7 +7,7 @@
 <div>
     <div>
         
-        <ul>
+<ul>
 <li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">My Portfolio Web Page</a>.</li>
 <li>🧐 Learning about <strong>Rest Api</strong>, <strong>TypeScript</strong>, and a bit of <strong>CSS</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/yamanerkam">Github</a>.</li>
@@ -17,7 +17,7 @@
 </ul>
 
 </div>
-    <div>
+<div>
             <img  align="right" width="200" height="200"   src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
     </div>
