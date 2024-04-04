@@ -7,14 +7,7 @@
  
 <h2>⚡️ A Few Quick Facts</h2>
 
-<style>
-.a {
-    color: red;
-    font-weight:700;
-    font-size: 35px;
-}
 
-</style>
 <div class="a">
  
 <div >  
