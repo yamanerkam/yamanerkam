@@ -6,7 +6,7 @@
 <h2>⚡️ A Few Quick Facts</h2>
 <div>
     
-<div>  
+<div class="a">  
     
 <ul>
 <li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">My Portfolio Web Page</a>.</li>
@@ -19,7 +19,7 @@
 </ul>
 
 </div>
-<div>
+<div class="b">
      <img  align="right" width="200" height="200"   src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 </div>
 
