@@ -12,11 +12,11 @@
 <div >  
     
 <ul>
-<li>🔭 I’m currently working on <a href="https://github.com/Spiderpig86/Cirrus">My Portfolio Web Page</a>.</li>
+<li>🔭 I’m currently working on <a href="">My Portfolio Web Page</a>.</li>
 <li>🧐 Learning about <strong>Rest Api</strong>, <strong>TypeScript</strong>, and a bit of <strong>CSS</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/yamanerkam">Github</a>.</li>
 <li>💬 Ping me about <strong>React, CSS, Rest Api, and Web Dev stuff</strong>.</li>
-<li>📙 Check out my <a href="https://www.stanleylim.me/resume/resume.pdf">resume</a>.</li>
+<li>📙 Check out my <a href="">resume</a>.</li>
 <li>🎉 Fun Fact: I am a son of Vincent van Gogh。</li>
     
 </ul>
@@ -27,14 +27,14 @@
 </div>
 
 </div>
-
+/*
 <h2>✒️ Recent Posts</h2>
 <details>
     <summary>Explore</summary>
     <li><a target="_blank" href="https://blog.stanleylim.me/maximizing-efficiency-and-impact---why-i-choose-mermaid-for-graph-creation">Maximizing Efficiency and Impact - Why I Choose Mermaid for Graph Creation — June 19, 2023</a></li><li><a target="_blank" href="https://blog.stanleylim.me/til-how-casing-can-break-netlify-functions">TIL How Casing Can Break Netlify Functions — February 27, 2023</a></li><li><a target="_blank" href="https://blog.stanleylim.me/godaddy-redirect-hack">GoDaddy Redirect Hack — December 20, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/airpods-not-charging-on-windows">Airpods Not Charging on Windows — August 19, 2022</a></li><li><a target="_blank" href="https://blog.stanleylim.me/the-fastest-way-to-develop-and-deploy-your-next-project">⚡ The Fastest Way to Develop and Deploy Your Next Project — June 09, 2022</a></li>
 </details>
 <p><a target="_blank" href="https://blog.stanleylim.me">Read More</a></p>
-
+*/
 
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
