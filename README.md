@@ -36,12 +36,13 @@
 
 <h2>🚀 Some Tools I Use</h2>
 <p align="left">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="25" height="25" />
+<img src="https://avatars.githubusercontent.com/u/43360229?s=200&v=4" alt="springboot" width="25" height="25" />
+
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="vue" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
-<img src="https://avatars.githubusercontent.com/u/43360229?s=200&v=4" alt="redis" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=yamanerkam&show_icons=true&count_private=true" alt="yamanerkam" />
