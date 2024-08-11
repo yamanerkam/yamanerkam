@@ -39,11 +39,14 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="25" height="25" />
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="angular" width="25" height="25" />
 <img src="https://avatars.githubusercontent.com/u/43360229?s=200&v=4" alt="springboot" width="25" height="25" />
+<img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postsql" width="25" height="25" />
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
+<img src="https://ionic.io/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Fionicframeworkcom%2F66cfdbef-e59d-463a-8e24-12cb233e9d97_ionic%2Blogo%2Bblue.png&w=128&q=75" alt="ionic" width="25" height="25" />
+
 </p>
 <img src="https://github-readme-stats.vercel.app/api?username=yamanerkam&show_icons=true&count_private=true" alt="yamanerkam" />
 <p><a href="http://hits.dwyl.com/yamanerkam/yamanerkam/yamanerkam.svg?style=flat-square"><img src="https://hits.dwyl.com/yamanerkam/yamanerkam/yamanerkam.svg?style=flat-square" alt="HitCount"></a></p>
