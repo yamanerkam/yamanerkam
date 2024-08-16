@@ -1,10 +1,10 @@
 
 <h2>Hey 👋, I'm <a href="">Kam</a></h2>
-<p>I'm currently a software engineer student at <strong><a href="https://www.yalova.edu.tr/en">University of Yalova.</a></strong> 
+<p>I'm currently a software engineer student at <strong><a href="https://www.yalova.edu.tr/en">University of Yalova.</a></strong> I’m currently interning as a Frontend Developer at <strong><a href="https://www.kolayrandevu.com/">Kolay Randevu</a></strong>, where I’m deepening my Angular skills.
  I am exploring the web development, 
  I started with React.js, Node.js and Mern Stack apps. 
  After meeting with Angular, I cannot see how I can leave TypeScript. I am enjoying my journey with Angular. And also I am on another journey with Java Spring Boot since I love Java.
- And I recently got accepted to a Blockchain and Web 3 camp which I am really excited about! This is my journey! Welcome to it!
+ This is my journey! Welcome to it!
  </p>
 <p> <a href="https://www.linkedin.com/in/erkamyaman35/"><img src="https://img.shields.io/badge/-@kam-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/erkamyaman35/" alt="LinkedIn Badge"></a> </p>
 <p>🙃 Don't forget to get some Sarcasm in your life 🙃</p>
