@@ -17,7 +17,7 @@
 <div >  
     
 <ul>
-<li>🔭 I’m currently working on <a href="">Student Management App with Angular and Java Spring Boot</a>.</li>
+<li>🔭 I’m currently working on <a href="https://github.com/yamanerkam/student-manager">Student Management App with Angular and Java Spring Boot</a>.</li>
 <li>🧐 Learning about <strong>Java Spring Boot</strong>, <strong>Angular</strong>, and a bit of <strong>TypeScript</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/yamanerkam">Github</a>.</li>
 <li>💬 Ping me about <strong> Angular, Java Spring Boot, React and Web Dev stuff</strong>.</li>
