@@ -48,11 +48,10 @@
 <img src="https://ionic.io/_next/image?url=https%3A%2F%2Fimages.prismic.io%2Fionicframeworkcom%2F66cfdbef-e59d-463a-8e24-12cb233e9d97_ionic%2Blogo%2Bblue.png&w=128&q=75" alt="ionic" width="25" height="25" />
 
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=yamanerkam&show_icons=true&count_private=true" alt="yamanerkam" />
-# 📊 GitHub Stats:
+
+<h2>📊 GitHub Stats:</h2>
 <img src="https://github-readme-stats.vercel.app/api?username=yamanerkam&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="yamanerkam" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yamanerkam&theme=dark&hide_border=false" alt="yamanerkam" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamanerkam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="yamanerkam" />
 
 
-<p><a href="http://hits.dwyl.com/yamanerkam/yamanerkam/yamanerkam.svg?style=flat-square"><img src="https://hits.dwyl.com/yamanerkam/yamanerkam/yamanerkam.svg?style=flat-square" alt="HitCount"></a></p>
