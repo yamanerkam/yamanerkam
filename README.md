@@ -50,8 +50,10 @@
 </p>
 
 <h2>📊 GitHub Stats:</h2>
-<img src="https://github-readme-stats.vercel.app/api?username=yamanerkam&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="yamanerkam" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yamanerkam&theme=dark&hide_border=false" alt="yamanerkam" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yamanerkam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="yamanerkam" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yamanerkam&show_icons=true&locale=en&layout=compact" alt="yamanerkam" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yamanerkam&show_icons=true&locale=en" alt="yamanerkam" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yamanerkam&" alt="yamanerkam" /></p>
 
 
