@@ -1,6 +1,6 @@
 
 <h2>Hey 👋, I'm <a href="">Kam</a></h2>
-<p>I'm currently a software engineer student at <strong><a href="https://www.yalova.edu.tr/en">University of Yalova</a></strong> and interning as a Frontend Developer at <strong><a href="https://www.kolayrandevu.com/">Kolay Randevu</a></strong>, where I’m deepening my Angular skills.
+<p>I'm currently a software engineer student at <strong><a href="https://www.yalova.edu.tr/en">University of Yalova</a></strong> and working as a Frontend Developer at <strong><a href="https://www.kolayrandevu.com/">Kolay Randevu</a></strong>, where I’m deepening my Angular skills.
  I am exploring the web development, 
  I started with React.js, Node.js and Mern Stack apps. 
  After meeting with Angular, I cannot see how I can leave TypeScript. I am enjoying my journey with Angular. And also I am on another journey with Java Spring Boot since I love Java.
