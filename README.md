@@ -36,7 +36,9 @@
 <li>🔲 Contribute to open-source projects</li>
 <li>🔲 Collaborate on an exciting web dev idea</li>
 <li>🔲 Create a portfolio page</li>
-<li>🔲 Create your own js framework</li>
+<li>🔲 Create your own JS framework</li>
+ <li>🔲 Create a multi frontend project with Angular and React</li>
+
 </ul>
 
 <div class="b">
