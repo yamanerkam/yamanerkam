@@ -27,6 +27,17 @@
 </ul>
 
 </div>
+
+<h2>📅 To-Do List for 2025</h2>
+
+<ul>
+<li>🔲 Build and launch 4 new projects </li>
+<li>🔲 Improve Angular and Frontend skills </li>
+<li>🔲 Contribute to open-source projects</li>
+<li>🔲 Collaborate on an exciting web dev idea</li>
+<li>🔲 Create a portfolio page</li>
+</ul>
+
 <div class="b">
      <img    src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 </div>
