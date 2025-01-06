@@ -112,10 +112,6 @@
 
 
 <h2>📊 GitHub Stats:</h2>
-<p><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=yamanerkam&show_icons=true&locale=en&layout=compact" alt="yamanerkam" /></p>
-
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=yamanerkam&show_icons=true&locale=en" alt="yamanerkam" /></p>
-
 <p><img  src="https://github-readme-streak-stats.herokuapp.com/?user=yamanerkam&" alt="yamanerkam" /></p>
 
 
